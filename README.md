@@ -8,7 +8,7 @@ Front End Developer
 
 * 🌍  I'm based in Istanbul / Türkiye
 * ✉️  You can contact me at [arifcan1511@gmail.com](mailto:arifcan1511@gmail.com)
-* 🧠  I'm learning ReactJS and NodeJS
+* 🧠  I'm learning React and NodeJS
 * 🤝  I'm open to collaborating on Front End
 
 ### Skills
