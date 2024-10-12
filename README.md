@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KnittyDev
 =================================================================================================================================
 
-Front End Developer
+Full Stack Developer
 -------------------
 
-+2 Years Experience ReactJS, NodeJS
++2 Years Experience ReactJS, NodeJS, NextJS, Googe API, Supabase, Firebase, MongoDB
 
 * 🌍  I'm based in Istanbul / Türkiye
 * ✉️  You can contact me at [arifcan1511@gmail.com](mailto:arifcan1511@gmail.com)
-* 🧠  I'm learning React and NodeJS
+* 🧠  I'm learning React and NodeJS, NextJS, Supabase, Clerk, Google APIS
 * 🤝  I'm open to collaborating on Front End
 
 ### Skills
