@@ -9,7 +9,7 @@ Full Stack Developer
 * 🌍  I'm based in Istanbul / Türkiye
 * ✉️  You can contact me at [arifcan1511@gmail.com](mailto:arifcan1511@gmail.com)
 * 🧠  I'm learning React and NodeJS, NextJS, Supabase, Clerk, Google APIS
-* 🤝  I'm open to collaborating on Front End
+* 🤝  I'm open to collaborating on Front End - Back End - Figma designs and more!
 
 ### Skills
 
