@@ -6,7 +6,7 @@ Full Stack Developer
 
 +2 Years Experience ReactJS, NodeJS, NextJS, Googe API, Supabase, Firebase, MongoDB
 
-* 🌍  I'm based in Istanbul / Türkiye
+* 🌍  I'm based in Poland / Siedlce
 * ✉️  You can contact me at [arifcan1511@gmail.com](mailto:arifcan1511@gmail.com)
 * 🧠  I'm learning React and NodeJS, NextJS, Supabase, Clerk, Google APIS
 * 🤝  I'm open to collaborating on Front End - Back End - Figma designs and more!
