@@ -1,28 +1,94 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KnittyDev
-=================================================================================================================================
+# 👋 Hi, I’m Arif Can
 
-Full Stack Developer
--------------------
+> *I see coding not just as a job, but as the art of building systems.*
 
-+4 Years Experience ReactJS, NodeJS, NextJS, Googe API, Supabase, Firebase, MongoDB
+---
 
-* 🌍  I'm based in Poland / Siedlce
-* ✉️  You can contact me at [arifcan1511@gmail.com](mailto:arifcan1511@gmail.com)
-* 🧠  I'm learning React and NodeJS, NextJS, Supabase, Clerk, Google APIS
-* 🤝  I'm open to collaborating on Front End - Back End - Figma designs and more!
+## 🧠 Who Am I?
 
-### Skills
+I’m a **full-stack oriented developer** who enjoys turning ideas into real, working products — often starting with **zero budget**.
+I focus on **thinking in systems**, not just writing code.
 
+I’ve worked on and explored projects in **real estate, fintech, SaaS, and game development**.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-</p>
+* 🚀 I enjoy the full journey: Idea → MVP → Launch → Scale
+* 🧩 I analyze problems with both **technical and business** perspectives
+* 🛠️ I can ship complete products solo
 
+---
 
-### Socials
+## ⚙️ Tech Stack
 
-<p align="left"> <a href="https://discord.com/users/981965275954053170" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/knittydev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@arifjove" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+**Frontend**
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
-### Badges
+**Backend**
+`Node.js` · `Express` · `REST APIs`
 
-<a href="https://github.com/knittydev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knittydev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Database**
+`PostgreSQL` · `MongoDB`
+
+**DevOps / Tooling**
+`Git` · `GitHub` · `Vercel` · `Docker (basic)`
+
+---
+
+## 🧪 Areas of Interest
+
+* 🏠 **Real Estate Tech** (listing platforms, SEO, lead systems)
+* 💳 **Fintech & Payment Systems**
+* 🎮 **Game Development** (strategy & card-based mechanics)
+* 📈 **Growth & Monetization** (pricing, ads, subscriptions)
+
+---
+
+## 🧠 My Coding Philosophy
+
+```txt
+• Think in systems first
+• Then write the code
+• Avoid unnecessary complexity
+• If the user doesn’t understand it, the system is wrong
+```
+
+> “Clean code isn’t less code. It’s understandable code.”
+
+---
+
+## 🗺️ What I’m Currently Working On
+
+* 🌍 **Balkan-focused real estate platforms**
+* 💡 Products designed to grow with minimal budget
+* 🧠 Game mechanics & in-game economy design
+
+---
+
+## 📊 My GitHub Activity Mindset
+
+* Commit count ≠ productivity
+* Solving real problems > chasing trends
+* Even unfinished projects are learning experiences
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 Feel free to open an issue or discussion on GitHub
+* 🤝 Always open to collaboration and solid product ideas
+
+---
+
+## 🧩 A Small Note
+
+If you’re reading this, you’re probably:
+
+* building something
+* thinking about an idea
+* or looking for a better way
+
+I won’t say you’re in the wrong place.
+But here, you’ll find **thought-out systems**, not shortcuts.
+
+---
+
+⭐ *If you learned something, leave a star. If something feels unclear, open an issue.*
