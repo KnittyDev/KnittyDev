@@ -20,7 +20,7 @@ I’ve worked on and explored projects in **real estate, fintech, SaaS, and game
 ## ⚙️ Tech Stack
 
 **Frontend**
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Flutter` 
 
 **Backend**
 `Node.js` · `Express` · `REST APIs`
@@ -36,7 +36,9 @@ I’ve worked on and explored projects in **real estate, fintech, SaaS, and game
 ## 🧪 Areas of Interest
 
 * 🏠 **Real Estate Tech** (listing platforms, SEO, lead systems)
+* 🏠 **Trading Platform and Crypto** (listing platforms, SEO, lead systems)
 * 💳 **Fintech & Payment Systems**
+* 🍮 **Food Delivery / Grocery App Solutions** (Glovo, Yemeksepeti, Getir style)
 * 🎮 **Game Development** (strategy & card-based mechanics)
 * 📈 **Growth & Monetization** (pricing, ads, subscriptions)
 
@@ -57,9 +59,9 @@ I’ve worked on and explored projects in **real estate, fintech, SaaS, and game
 
 ## 🗺️ What I’m Currently Working On
 
-* 🌍 **Balkan-focused real estate platforms**
+* 🌍 **Balkan-focused real estate platform Rivora**
 * 💡 Products designed to grow with minimal budget
-* 🧠 Game mechanics & in-game economy design
+* 🧠 Also looking for a job!
 
 ---
 
@@ -75,7 +77,7 @@ I’ve worked on and explored projects in **real estate, fintech, SaaS, and game
 
 * 💼 Feel free to open an issue or discussion on GitHub
 * 🤝 Always open to collaboration and solid product ideas
-
+arifcan1511@gmail.com
 ---
 
 ## 🧩 A Small Note
