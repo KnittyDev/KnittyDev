@@ -31,6 +31,8 @@ I’ve worked on and explored projects in **real estate, fintech, SaaS, and game
 **DevOps / Tooling**
 `Git` · `GitHub` · `Vercel` · `Docker (basic)`
 
+**AI Tools**
+`Cursor Pro` · `GitHub CoPilot` · `Codex` · `Claude / Antigravity`
 ---
 
 ## 🧪 Areas of Interest
